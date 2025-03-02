@@ -70,20 +70,6 @@ Docker Basics Commands:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Writing a Python Dockerfile
 
 # Use Python Base Image
